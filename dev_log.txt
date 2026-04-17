@@ -1,0 +1,5 @@
+Issue: NodeMCU kept disconnecting from Wi-Fi.
+
+Solution: Added a Blynk.connected() check in the loop to prevent blocking the code when the router is offline.
+
+Improvement: Plan to add a MQ-2 Gas sensor next for smoke detection.

@@ -1,0 +1,3 @@
+Libraries Required:
+- Blynk by Volodymyr Shymanskyy (v1.0.1+)
+- ESP8266 Board Package (v3.0.0+)
